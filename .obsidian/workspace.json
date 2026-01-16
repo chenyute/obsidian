@@ -6,23 +6,10 @@
       {
         "id": "5a573ad7790c8c53",
         "type": "tabs",
+        "dimension": 55.88396278051451,
         "children": [
           {
             "id": "6362c2d6f425f328",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99-备忘/Obsidian插件.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian插件"
-            }
-          },
-          {
-            "id": "36adfab0d7825084",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,17 +23,41 @@
             }
           },
           {
-            "id": "963de3ab2108a6ff",
+            "id": "36adfab0d7825084",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01-读书笔记/Java设计模式/Java设计模式 (刘伟) (Z-Library).pdf",
+                "page": 46,
+                "left": -32,
+                "top": 517,
+                "zoom": 0.4731089521165857
+              },
+              "icon": "lucide-file-text",
+              "title": "Java设计模式 (刘伟) (Z-Library)"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a9bdee871708eb75",
+        "type": "tabs",
+        "dimension": 44.11603721948549,
+        "children": [
+          {
+            "id": "4a4a543696cd7165",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-总结与计划/2026/2026年01月/2026年01月-月度计划.md",
+                "file": "01-读书笔记/Java设计模式/Java设计模式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026年01月-月度计划"
+              "title": "Java设计模式"
             }
           }
         ]
@@ -72,7 +83,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -106,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.50271224975586
+    "width": 245.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "a8f0f573ae1adb57",
@@ -170,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99-备忘/Obsidian插件.md",
+                "file": "01-读书笔记/Java设计模式/Java设计模式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Obsidian插件 的大纲"
+              "title": "Outline of Java设计模式"
             }
           }
         ],
@@ -184,36 +196,45 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "templater-obsidian:Templater": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "fdb9b50954f7cd4d",
+  "active": "36adfab0d7825084",
   "lastOpenFiles": [
-    "00-总结与计划/2025/2025年度总结.md",
-    "00-总结与计划/2026/2026年度计划.md",
+    "01-读书笔记/Java设计模式/Java设计模式.md",
+    "01-读书笔记/Java设计模式/Java设计模式 (刘伟) (Z-Library).pdf",
     "00-总结与计划/2026/2026年01月/2026年01月-月度计划.md",
-    "00-总结与计划/2026/2026年01月",
+    "99-备忘/IDEA相关.md",
+    "01-读书笔记/Java设计模式",
+    "01-读书笔记/Java设计模式 (刘伟) (Z-Library).pdf",
+    "01-读书笔记",
     "99-备忘/Obsidian插件.md",
+    "00-总结与计划/2025/2025年度总结.md",
+    "01-",
+    "00-总结与计划/Untitled",
+    "00-总结与计划/2026/2026年度计划.md",
+    "00-总结与计划/2026/2026年01月",
     "Drawing 2026-01-02 21.35.22.excalidraw.md",
     "未命名.canvas",
     "Obsidian/未命名.base",
     "2026-01-02.md",
     "99-备忘",
-    "00-总结与计划/2026",
-    "summary-and-plan/2025/未命名.base",
-    "00-总结与计划/2025",
-    "00-总结与计划"
+    "00-总结与计划/2026"
   ]
 }
