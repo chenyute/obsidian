@@ -6,7 +6,7 @@
       {
         "id": "5a573ad7790c8c53",
         "type": "tabs",
-        "dimension": 55.88396278051451,
+        "dimension": 54.84571925249892,
         "children": [
           {
             "id": "6362c2d6f425f328",
@@ -14,25 +14,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-总结与计划/2026/2026年度计划.md",
+                "file": "02-Linux/Fedora Config.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026年度计划"
+              "title": "Fedora Config"
             }
           },
           {
-            "id": "36adfab0d7825084",
+            "id": "c6c1cd0ef6f96b88",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "01-读书笔记/Java设计模式/Java设计模式 (刘伟) (Z-Library).pdf",
-                "page": 46,
-                "left": -32,
-                "top": 517,
-                "zoom": 0.4731089521165857
+                "page": 89,
+                "left": -24,
+                "top": 622,
+                "zoom": 0.6297709923664123
               },
               "icon": "lucide-file-text",
               "title": "Java设计模式 (刘伟) (Z-Library)"
@@ -42,12 +42,12 @@
         "currentTab": 1
       },
       {
-        "id": "a9bdee871708eb75",
+        "id": "c0fb0934c1e0098c",
         "type": "tabs",
-        "dimension": 44.11603721948549,
+        "dimension": 45.15428074750108,
         "children": [
           {
-            "id": "4a4a543696cd7165",
+            "id": "8a70c10893f82de9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -117,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.50271224975586,
+    "width": 220.5,
     "collapsed": true
   },
   "right": {
@@ -215,10 +215,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "36adfab0d7825084",
+  "active": "8a70c10893f82de9",
   "lastOpenFiles": [
-    "01-读书笔记/Java设计模式/Java设计模式.md",
     "01-读书笔记/Java设计模式/Java设计模式 (刘伟) (Z-Library).pdf",
+    "01-读书笔记/Java设计模式/Java设计模式.md",
+    "02-Linux/Fedora Config.md",
+    "02-Linux/Untitled.md",
+    "00-总结与计划/2026/2026年度计划.md",
+    "02-Linux",
     "00-总结与计划/2026/2026年01月/2026年01月-月度计划.md",
     "99-备忘/IDEA相关.md",
     "01-读书笔记/Java设计模式",
@@ -228,13 +232,11 @@
     "00-总结与计划/2025/2025年度总结.md",
     "01-",
     "00-总结与计划/Untitled",
-    "00-总结与计划/2026/2026年度计划.md",
     "00-总结与计划/2026/2026年01月",
     "Drawing 2026-01-02 21.35.22.excalidraw.md",
     "未命名.canvas",
     "Obsidian/未命名.base",
     "2026-01-02.md",
-    "99-备忘",
-    "00-总结与计划/2026"
+    "99-备忘"
   ]
 }
