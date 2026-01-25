@@ -146,6 +146,10 @@
 ![[Java设计模式 (刘伟) (Z-Library).pdf#page=135&rect=155,674,1288,1422|Java设计模式 (刘伟) (Z-Library), p.135]]
 
 # 9 适配器模式(⭐⭐⭐⭐)
+
+> [!NOTE] 适配器模式总结
+> 两个类之间无法直接兼容，通过适配器在中间进行转换，使得两个类可以兼容
+
 ![[Java设计模式 (刘伟) (Z-Library).pdf#page=136&rect=152,763,1293,1229|Java设计模式 (刘伟) (Z-Library), p.136]]
 ![[Java设计模式 (刘伟) (Z-Library).pdf#page=137&rect=158,789,1290,1857|Java设计模式 (刘伟) (Z-Library), p.137]]
 
@@ -161,4 +165,32 @@
 
 ## 9.8 本章小结
 ![[Java设计模式 (刘伟) (Z-Library).pdf#page=146&rect=153,168,1289,776|Java设计模式 (刘伟) (Z-Library), p.146]]
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=147&rect=155,1382,1285,1855|Java设计模式 (刘伟) (Z-Library), p.147]]
+
+
+# 10 桥接模式(⭐⭐⭐)
+> [!NOTE] 桥接模式总结
+> 使用组合的方式取代多层继承关系，能够有效控制系统中类的个数
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=150&rect=151,430,1293,1015|Java设计模式 (刘伟) (Z-Library), p.150]]
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=151&rect=170,1296,1279,1842|Java设计模式 (刘伟) (Z-Library), p.151]]
+
+## 10.4 桥接模式与适配器模式的联用
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=159&rect=154,228,1290,945|Java设计模式 (刘伟) (Z-Library), p.159]]
+
+### 10.5.3 桥接模式适用环境
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=160&rect=153,163,1290,594|Java设计模式 (刘伟) (Z-Library), p.160]]
+
+## 10.6 本章小结
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=161&rect=152,932,1291,1710|Java设计模式 (刘伟) (Z-Library), p.161]]
+
+
+
+
+
+# End
+
+> [!NOTE] 模式总结
+> 内容
 
