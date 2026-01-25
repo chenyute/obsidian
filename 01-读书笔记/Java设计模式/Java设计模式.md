@@ -145,4 +145,20 @@
 
 ![[Java设计模式 (刘伟) (Z-Library).pdf#page=135&rect=155,674,1288,1422|Java设计模式 (刘伟) (Z-Library), p.135]]
 
-# 9 适配器模式
+# 9 适配器模式(⭐⭐⭐⭐)
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=136&rect=152,763,1293,1229|Java设计模式 (刘伟) (Z-Library), p.136]]
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=137&rect=158,789,1290,1857|Java设计模式 (刘伟) (Z-Library), p.137]]
+
+## 9.5 缺省适配器模式
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=142&rect=148,341,1289,757|Java设计模式 (刘伟) (Z-Library), p.142]]
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=143&rect=159,1184,1288,1843|Java设计模式 (刘伟) (Z-Library), p.143]]
+## 9.6 双向适配器
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=144&rect=148,199,1301,891|Java设计模式 (刘伟) (Z-Library), p.144]]
+
+### 9.7.3 适配器模式
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=146&rect=155,917,1285,1134|Java设计模式 (刘伟) (Z-Library), p.146]]
+
+## 9.8 本章小结
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=146&rect=153,168,1289,776|Java设计模式 (刘伟) (Z-Library), p.146]]
+
