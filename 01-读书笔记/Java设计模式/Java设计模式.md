@@ -53,6 +53,9 @@
 
 ![[Java设计模式 (刘伟) (Z-Library).pdf#page=60&rect=152,463,1295,1003|Java设计模式 (刘伟) (Z-Library), p.60]]
 
+### 4.7.3 工厂方法模式适用环境
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=70&rect=157,485,1287,824|Java设计模式 (刘伟) (Z-Library), p.70]]
+
 ## 4.8 本章小结
 ![[Java设计模式 (刘伟) (Z-Library).pdf#page=70&rect=150,166,1293,340|Java设计模式 (刘伟) (Z-Library), p.70]]
 ![[Java设计模式 (刘伟) (Z-Library).pdf#page=71&rect=149,1163,1292,1861|Java设计模式 (刘伟) (Z-Library), p.71]]
@@ -71,14 +74,75 @@
 
 ![[Java设计模式 (刘伟) (Z-Library).pdf#page=84&rect=153,1427,1290,1809|Java设计模式 (刘伟) (Z-Library), p.84]]
 
+### 5.6.3 抽象工厂模式适用环境
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=84&rect=159,163,1287,296|Java设计模式 (刘伟) (Z-Library), p.84]]
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=85&rect=159,1507,1284,1850|Java设计模式 (刘伟) (Z-Library), p.85]]
+
 ## 5.7 本章小结
 ![[Java设计模式 (刘伟) (Z-Library).pdf#page=85&rect=148,397,1299,1366|Java设计模式 (刘伟) (Z-Library), p.85]]
 
 # 6 建造者模式(⭐⭐)
 
+> [!NOTE] 建造者模式总结
+> 一个具体产品；一个抽象建造者、多个具体建造者、一个具体指挥者
+> 建造者根据实际需要的产品特征创建对应的产品
+
 ![[Java设计模式 (刘伟) (Z-Library).pdf#page=89&rect=144,730,1304,1228|Java设计模式 (刘伟) (Z-Library), p.89]]
+
+## 6.2 建造者模式结构与实现
 
 ![[Java设计模式 (刘伟) (Z-Library).pdf#page=90&rect=161,1335,1280,1851|Java设计模式 (刘伟) (Z-Library), p.90]]
 
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=92&rect=148,387,1291,653|Java设计模式 (刘伟) (Z-Library), p.92]]
 
+### 6.5.3 建造者模式适用环境
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=103&rect=156,235,1289,503|Java设计模式 (刘伟) (Z-Library), p.103]]
 
+## 6.6 本章小结
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=104&rect=146,791,1301,1714|Java设计模式 (刘伟) (Z-Library), p.104]]
+
+# 7 原型模式(⭐⭐⭐)
+
+> [!NOTE] 原型模式总结
+> 需要复制一个对象的情况下使用
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=107&rect=146,637,1298,1364|Java设计模式 (刘伟) (Z-Library), p.107]]
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=108&rect=156,1373,1288,1845|Java设计模式 (刘伟) (Z-Library), p.108]]
+
+### 7.2.2 浅克隆与深克隆
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=108&rect=152,997,1294,1097|Java设计模式 (刘伟) (Z-Library), p.108]]
+
+### 7.5.3 原型模式适用环境
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=119&rect=160,1269,1286,1618|Java设计模式 (刘伟) (Z-Library), p.119]]
+
+## 7.6 本章小结
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=119&rect=155,170,1288,1127|Java设计模式 (刘伟) (Z-Library), p.119]]
+
+# 8 单例模式(⭐⭐⭐⭐)
+
+> [!NOTE] 单例模式总结
+> 整个系统只有一个实例，无法通过自身类以外的方式创建
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=122&rect=152,568,1288,947|Java设计模式 (刘伟) (Z-Library), p.122]]
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=123&rect=161,1464,1280,1845|Java设计模式 (刘伟) (Z-Library), p.123]]
+
+## 8.4 饿汉式单例与懒汉式单例
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=127&rect=148,764,1293,1189|Java设计模式 (刘伟) (Z-Library), p.127]]
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=128&rect=159,1297,1284,1848|Java设计模式 (刘伟) (Z-Library), p.128]]
+
+### 8.5.3 单例模式适用环境
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=131&rect=156,168,1287,382|Java设计模式 (刘伟) (Z-Library), p.131]]
+
+## 8.6 本章小结
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=132&rect=156,1186,1287,1712|Java设计模式 (刘伟) (Z-Library), p.132]]
+
+# 结构型模式
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=135&rect=155,674,1288,1422|Java设计模式 (刘伟) (Z-Library), p.135]]
+
+# 9 适配器模式
