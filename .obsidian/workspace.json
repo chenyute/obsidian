@@ -6,7 +6,7 @@
       {
         "id": "4e08e9289a60a74d",
         "type": "tabs",
-        "dimension": 55.22193211488251,
+        "dimension": 55.190538764783184,
         "children": [
           {
             "id": "f53dab71009be565",
@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "01-读书笔记/Java设计模式/Java设计模式 (刘伟) (Z-Library).pdf",
-                "page": 163,
+                "page": 190,
                 "left": -24,
-                "top": 1711,
-                "zoom": 0.6292505204718946
+                "top": 2035,
+                "zoom": 0.6287300485773769
               },
               "icon": "lucide-file-text",
               "title": "Java设计模式 (刘伟) (Z-Library)"
@@ -29,7 +29,7 @@
       {
         "id": "5a573ad7790c8c53",
         "type": "tabs",
-        "dimension": 44.778067885117494,
+        "dimension": 44.809461235216816,
         "children": [
           {
             "id": "e6cbe0d1726cb93c",
@@ -200,10 +200,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f53dab71009be565",
+  "active": "e6cbe0d1726cb93c",
   "lastOpenFiles": [
-    "01-读书笔记/Java设计模式/Java设计模式.md",
     "01-读书笔记/Java设计模式/Java设计模式 (刘伟) (Z-Library).pdf",
+    "01-读书笔记/Java设计模式/Java设计模式.md",
     "01-读书笔记/Java设计模式/Java设计模式.pdf",
     "02-Linux/Fedora Config.md",
     "01-读书笔记/Temp",
