@@ -227,6 +227,25 @@
 
 
 
+
+# 13 外观模式(⭐⭐⭐⭐⭐)
+
+> [!NOTE] 外观模式总结
+> 引入外观角色简化客户端与子系统的交互，为复杂子系统调用提供统一入口
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=191&rect=152,167,1296,486|Java设计模式 (刘伟) (Z-Library), p.191]]
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=192&rect=158,1722,1284,1856|Java设计模式 (刘伟) (Z-Library), p.192]]
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=192&rect=151,837,1288,1500|Java设计模式 (刘伟) (Z-Library), p.192]]
+
+### 13.5.3 外观模式适用环境
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=202&rect=146,1401,1291,1669|Java设计模式 (刘伟) (Z-Library), p.202]]
+
+## 13.6 本章小结
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=202&rect=154,401,1287,1263|Java设计模式 (刘伟) (Z-Library), p.202]]
+
+
+
 # End
 
 > [!NOTE] 模式总结
