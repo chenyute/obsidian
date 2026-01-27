@@ -246,6 +246,24 @@
 
 
 
+
+# 14 享元模式(⭐)
+
+> [!NOTE] 享元模式总结
+> 系统中存在大量相同或相似对象时，提供用于共享的对象给客户端使用
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=205&rect=152,562,1288,901|Java设计模式 (刘伟) (Z-Library), p.205]]
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=206&rect=151,1404,1289,1850|Java设计模式 (刘伟) (Z-Library), p.206]]
+
+### 14.7.3 享元模式适用环境
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=216&rect=146,570,1293,805|Java设计模式 (刘伟) (Z-Library), p.216]]
+
+## 14.8 本章小结
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=216&rect=149,165,1293,439|Java设计模式 (刘伟) (Z-Library), p.216]]
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=217&rect=153,1250,1293,1860|Java设计模式 (刘伟) (Z-Library), p.217]]
+
+
 # End
 
 > [!NOTE] 模式总结

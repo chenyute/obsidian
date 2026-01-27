@@ -6,33 +6,10 @@
       {
         "id": "4e08e9289a60a74d",
         "type": "tabs",
-        "dimension": 55.190538764783184,
+        "dimension": 46.88818565400844,
         "children": [
           {
-            "id": "f53dab71009be565",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01-读书笔记/Java设计模式/Java设计模式 (刘伟) (Z-Library).pdf",
-                "page": 202,
-                "left": -24,
-                "top": 1710,
-                "zoom": 0.6287300485773769
-              },
-              "icon": "lucide-file-text",
-              "title": "Java设计模式 (刘伟) (Z-Library)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5a573ad7790c8c53",
-        "type": "tabs",
-        "dimension": 44.809461235216816,
-        "children": [
-          {
-            "id": "e6cbe0d1726cb93c",
+            "id": "1c730de2dbe94134",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,6 +20,29 @@
               },
               "icon": "lucide-file",
               "title": "Java设计模式"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5a573ad7790c8c53",
+        "type": "tabs",
+        "dimension": 53.11181434599156,
+        "children": [
+          {
+            "id": "e6cbe0d1726cb93c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01-读书笔记/Java设计模式/Java设计模式 (刘伟) (Z-Library).pdf",
+                "page": 219,
+                "left": -30,
+                "top": 1993,
+                "zoom": 0.4970506592643998
+              },
+              "icon": "lucide-file-text",
+              "title": "Java设计模式 (刘伟) (Z-Library)"
             }
           }
         ]
@@ -202,8 +202,8 @@
   },
   "active": "e6cbe0d1726cb93c",
   "lastOpenFiles": [
-    "01-读书笔记/Java设计模式/Java设计模式 (刘伟) (Z-Library).pdf",
     "01-读书笔记/Java设计模式/Java设计模式.md",
+    "01-读书笔记/Java设计模式/Java设计模式 (刘伟) (Z-Library).pdf",
     "01-读书笔记/Java设计模式/Java设计模式.pdf",
     "02-Linux/Fedora Config.md",
     "01-读书笔记/Temp",
