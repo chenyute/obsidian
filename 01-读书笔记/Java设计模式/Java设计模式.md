@@ -263,6 +263,22 @@
 ![[Java设计模式 (刘伟) (Z-Library).pdf#page=216&rect=149,165,1293,439|Java设计模式 (刘伟) (Z-Library), p.216]]
 ![[Java设计模式 (刘伟) (Z-Library).pdf#page=217&rect=153,1250,1293,1860|Java设计模式 (刘伟) (Z-Library), p.217]]
 
+# 15 代理模式(⭐⭐⭐⭐)
+
+> [!NOTE] 代理模式总结
+> 无法直接访问某对象或访问某对象存在困难时，可以通过代理对象间接访问
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=220&rect=147,695,1292,1119|Java设计模式 (刘伟) (Z-Library), p.220]]
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=221&rect=153,1275,1296,1882|Java设计模式 (刘伟) (Z-Library), p.221]]
+
+### 15.7.3 代理模式适用环境
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=234&rect=152,1264,1293,1714|Java设计模式 (刘伟) (Z-Library), p.234]]
+
+## 15.8 本章小结
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=234&rect=149,161,1301,1137|Java设计模式 (刘伟) (Z-Library), p.234]]
+
+
+
 
 # End
 
