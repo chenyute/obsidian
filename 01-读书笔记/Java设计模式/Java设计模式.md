@@ -280,6 +280,24 @@
 
 
 
+
+# 行为型模式
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=238&rect=152,222,1290,1459|Java设计模式 (刘伟) (Z-Library), p.238]]
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=239&rect=156,1304,1284,1819|Java设计模式 (刘伟) (Z-Library), p.239]]
+
+# 16 职责链模式(⭐⭐)
+
+> [!NOTE] 职责链模式总结
+> 将请求的发送者和多个接收者解耦，让接收者连成一条链，并沿着这条链传递请求
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=240&rect=147,607,1292,1136|Java设计模式 (刘伟) (Z-Library), p.240]]
+
+### 16.6.3 职责链模式适用环境
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=249&rect=146,391,1295,664|Java设计模式 (刘伟) (Z-Library), p.249]]
+
+## 16.7 本章小结
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=249&rect=154,170,1286,257|Java设计模式 (刘伟) (Z-Library), p.249]]
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=250&rect=150,906,1294,1854|Java设计模式 (刘伟) (Z-Library), p.250]]
 # End
 
 > [!NOTE] 模式总结
