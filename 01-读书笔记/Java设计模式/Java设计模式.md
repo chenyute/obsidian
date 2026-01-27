@@ -298,6 +298,23 @@
 ## 16.7 本章小结
 ![[Java设计模式 (刘伟) (Z-Library).pdf#page=249&rect=154,170,1286,257|Java设计模式 (刘伟) (Z-Library), p.249]]
 ![[Java设计模式 (刘伟) (Z-Library).pdf#page=250&rect=150,906,1294,1854|Java设计模式 (刘伟) (Z-Library), p.250]]
+
+# 17 命令模式(⭐⭐⭐⭐)
+
+> [!NOTE] 命令模式总结
+> 将请求的发送者和接收者解耦
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=253&rect=154,703,1285,1071|Java设计模式 (刘伟) (Z-Library), p.253]]
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=254&rect=158,1355,1293,1869|Java设计模式 (刘伟) (Z-Library), p.254]]
+
+### 17.8.3 命令模式适用环境
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=266&rect=150,873,1292,1267|Java设计模式 (刘伟) (Z-Library), p.266]]
+
+## 17.9 本章小结
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=266&rect=155,172,1287,729|Java设计模式 (刘伟) (Z-Library), p.266]]
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=267&rect=161,1549,1287,1855|Java设计模式 (刘伟) (Z-Library), p.267]]
+
+
 # End
 
 > [!NOTE] 模式总结

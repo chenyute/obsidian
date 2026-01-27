@@ -36,10 +36,10 @@
               "type": "pdf",
               "state": {
                 "file": "01-读书笔记/Java设计模式/Java设计模式 (刘伟) (Z-Library).pdf",
-                "page": 249,
-                "left": -30,
-                "top": 36,
-                "zoom": 0.49705065926439973
+                "page": 266,
+                "left": -25,
+                "top": 767,
+                "zoom": 0.6053088133240805
               },
               "icon": "lucide-file-text",
               "title": "Java设计模式 (刘伟) (Z-Library)"
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Obsidian插件.md",
+                "file": "01-读书笔记/Java设计模式/Java设计模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Obsidian插件 的反向链接列表"
+              "title": "Backlinks for Java设计模式"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Obsidian插件.md",
+                "file": "01-读书笔记/Java设计模式/Java设计模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Obsidian插件 的出链列表"
+              "title": "Outgoing links from Java设计模式"
             }
           },
           {
@@ -158,7 +158,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Tags"
             }
           },
           {
@@ -177,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -200,10 +200,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e6cbe0d1726cb93c",
+  "active": "1c730de2dbe94134",
   "lastOpenFiles": [
-    "01-读书笔记/Java设计模式/Java设计模式.md",
     "01-读书笔记/Java设计模式/Java设计模式 (刘伟) (Z-Library).pdf",
+    "01-读书笔记/Java设计模式/Java设计模式.md",
     "01-读书笔记/Java设计模式/Java设计模式.pdf",
     "02-Linux/Fedora Config.md",
     "01-读书笔记/Temp",
