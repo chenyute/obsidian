@@ -332,6 +332,22 @@
 ## 18.6 本章小结
 ![[Java设计模式 (刘伟) (Z-Library).pdf#page=280&rect=146,832,1297,1500|Java设计模式 (刘伟) (Z-Library), p.280]]
 
+
+# 19 迭代器模式(⭐⭐⭐⭐⭐)
+
+> [!NOTE] 迭代器模式总结
+> 提供方法能够顺序访问聚合对象中的各个元素
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=283&rect=153,666,1294,941|Java设计模式 (刘伟) (Z-Library), p.283]]
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=284&rect=158,1347,1298,1865|Java设计模式 (刘伟) (Z-Library), p.284]]
+
+### 19.6.3 迭代器模式适用环境
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=296&rect=152,231,1286,506|Java设计模式 (刘伟) (Z-Library), p.296]]
+
+## 19.7 本章小结
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=297&rect=150,833,1293,1712|Java设计模式 (刘伟) (Z-Library), p.297]]
+
+
 # End
 
 > [!NOTE] 模式总结
