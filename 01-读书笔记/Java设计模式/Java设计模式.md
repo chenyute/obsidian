@@ -315,6 +315,23 @@
 ![[Java设计模式 (刘伟) (Z-Library).pdf#page=267&rect=161,1549,1287,1855|Java设计模式 (刘伟) (Z-Library), p.267]]
 
 
+
+# 18 解释器模式(⭐)
+
+> [!NOTE] 解释器模式总结
+> 描述如何构成一个简单的语言解释器
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=269&rect=153,874,1295,1295|Java设计模式 (刘伟) (Z-Library), p.269]]
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=271&rect=162,1313,1284,1879|Java设计模式 (刘伟) (Z-Library), p.271]]
+
+### 18.5.3 解释器模式适用环境
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=279&rect=144,171,1291,258|Java设计模式 (刘伟) (Z-Library), p.279]]
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=280&rect=151,1633,1291,1855|Java设计模式 (刘伟) (Z-Library), p.280]]
+
+## 18.6 本章小结
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=280&rect=146,832,1297,1500|Java设计模式 (刘伟) (Z-Library), p.280]]
+
 # End
 
 > [!NOTE] 模式总结
