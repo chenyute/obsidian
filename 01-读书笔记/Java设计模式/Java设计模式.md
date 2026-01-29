@@ -347,9 +347,28 @@
 ## 19.7 本章小结
 ![[Java设计模式 (刘伟) (Z-Library).pdf#page=297&rect=150,833,1293,1712|Java设计模式 (刘伟) (Z-Library), p.297]]
 
+# 20 中介者模式(⭐⭐)
+
+> [!NOTE] 中介者模式总结
+> 中介者可以将原本对象之间的两两交互转化为每个对象和中介者之间的交互，大量运用于GUI
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=301&rect=149,1215,1290,1729|Java设计模式 (刘伟) (Z-Library), p.301]]
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=301&rect=150,468,1293,916|Java设计模式 (刘伟) (Z-Library), p.301]]
+
+### 20.5.3 中介者模式适用环境
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=313&rect=159,151,1285,390|Java设计模式 (刘伟) (Z-Library), p.313]]
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=314&rect=156,1767,1289,1859|Java设计模式 (刘伟) (Z-Library), p.314]]
+
+## 20.6 本章小结
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=314&rect=159,922,1285,1629|Java设计模式 (刘伟) (Z-Library), p.314]]
+
 
 # End
 
 > [!NOTE] 模式总结
 > 内容
 
+
+# 积累的问题
+命令模式和中介者模式的区别
