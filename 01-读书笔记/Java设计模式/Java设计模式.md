@@ -364,11 +364,31 @@
 ![[Java设计模式 (刘伟) (Z-Library).pdf#page=314&rect=159,922,1285,1629|Java设计模式 (刘伟) (Z-Library), p.314]]
 
 
-# End
+
+# 21 备忘录模式(⭐⭐)
+
+> [!NOTE] 备忘录模式总结
+> 提供状态恢复机制，可以方便地回到特定的历史状态
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=317&rect=149,910,1299,1344|Java设计模式 (刘伟) (Z-Library), p.317]]
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=317&rect=156,193,1289,613|Java设计模式 (刘伟) (Z-Library), p.317]]
+
+### 21.5.3 备忘录模式适用环境
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=327&rect=152,165,1292,256|Java设计模式 (刘伟) (Z-Library), p.327]]
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=328&rect=156,1720,1288,1856|Java设计模式 (刘伟) (Z-Library), p.328]]
+
+## 21.6 本章小结
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=328&rect=156,969,1291,1584|Java设计模式 (刘伟) (Z-Library), p.328]]
+
+
+# 22 观察者模式(⭐⭐⭐⭐⭐)
 
 > [!NOTE] 模式总结
 > 内容
 
+# End
 
+> [!NOTE] 模式总结
+> 内容
 # 积累的问题
 命令模式和中介者模式的区别
