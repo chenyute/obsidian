@@ -36,9 +36,9 @@
               "type": "pdf",
               "state": {
                 "file": "01-读书笔记/Java设计模式/Java设计模式 (刘伟) (Z-Library).pdf",
-                "page": 408,
-                "left": -97,
-                "top": 1628,
+                "page": 429,
+                "left": -3,
+                "top": 1322,
                 "zoom": 0.5
               },
               "icon": "lucide-file-text",
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5,
-    "collapsed": true
+    "width": 220.5
   },
   "right": {
     "id": "a8f0f573ae1adb57",
