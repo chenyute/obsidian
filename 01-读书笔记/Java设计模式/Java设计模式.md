@@ -412,6 +412,34 @@
 ## 23.7 本章小结
 ![[Java设计模式 (刘伟) (Z-Library).pdf#page=363&rect=147,398,1296,1224|Java设计模式 (刘伟) (Z-Library), p.363]]
 
+# 24 策略模式
+
+> [!NOTE] 策略模式总结
+> 定义一系列算法，各个算法之间可以互相替换
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=367&rect=154,433,1293,816|Java设计模式 (刘伟) (Z-Library), p.367]]
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=368&rect=145,1492,1297,1869|Java设计模式 (刘伟) (Z-Library), p.368]]
+
+### 24.5.3 策略模式适用场景
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=376&rect=148,1320,1299,1755|Java设计模式 (刘伟) (Z-Library), p.376]]
+
+## 24.6 本章小结
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=376&rect=150,488,1299,1178|Java设计模式 (刘伟) (Z-Library), p.376]]
+
+# 25 模板方法模式
+
+> [!NOTE] 模板方法模式总结
+> 在抽象父类中定义算法框架，将具体实现延迟到子类，可以在不改变算法结构的情况下重定义某些特定的步骤
+
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=379&rect=150,545,1286,956|Java设计模式 (刘伟) (Z-Library), p.379]]
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=380&rect=150,987,1294,1545|Java设计模式 (刘伟) (Z-Library), p.380]]
+
+### 25.5.3 模板方法模式适用环境
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=390&rect=147,1172,1297,1483|Java设计模式 (刘伟) (Z-Library), p.390]]
+
+## 25.6 本章小结
+![[Java设计模式 (刘伟) (Z-Library).pdf#page=390&rect=152,200,1296,1038|Java设计模式 (刘伟) (Z-Library), p.390]]
+
 
 # End
 
